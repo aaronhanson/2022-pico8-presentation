@@ -11,5 +11,7 @@ Pico-8 is a fantasy console that allows simple game creation and comes with a co
 
 ## Alternatives
 
-- TIC-80
+- TIC-80 
+  - https://tic80.com/
 - Pixel Vision 8
+  - https://pixelvision8.github.io/Website/
